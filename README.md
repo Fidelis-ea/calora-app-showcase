@@ -16,7 +16,7 @@ Aplikasi ini dikembangkan sebagai proyek Tugas Akhir dengan fokus pada pengalama
 
 Anda dapat mencoba aplikasi melalui:
 
-- 📱 **Android APK:** [Download APK](link-apk)
+- 📱 **Android APK:** [Download APK](https://github.com/Fidelis-ea/calora-app-showcase/releases/tag/v1.0.0)
 
 ---
 
